@@ -1,0 +1,28 @@
+name: FirstWorldvegan
+favicon: null
+layout_spectrum: 0.9794500740244985
+typography_spectrum: 0.4228339979890734
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.732907586498186
+  lightness: 0.2113263423088938
+  saturation: 0.2826654724776745
+  rhythmicContrast: 0.3063130951486528
+purpose: []
